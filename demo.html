@@ -32,8 +32,6 @@ $(function() {
         context.fillRect(x-5, y-5, 10, 10);
     };
 
-    console.log(analogpad.input());
-
     setInterval(function() {
         var input = analogpad.input();
         x = x + input.x * scale;
