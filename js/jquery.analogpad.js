@@ -2,7 +2,7 @@
  * jquery-analogpad-plugin - jQuery plugin for emulate analog pad controller.
  *
  * https://github.com/hakobera/jquery-analogpad-plugin
- * version: 0.1
+ * version: 0.2
  *
  * Copyright 2011, Kazuyuki Honda (@hakobera)
  * Licensed under the MIT licenses (MIT-LICENSE.txt). 
